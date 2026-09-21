@@ -1,1 +1,1 @@
-# Projeto LI3
+# Projeto Laboratorios de Informática II - Universidade do Minho
